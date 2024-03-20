@@ -15,6 +15,10 @@
   },
   "dependencies": {
     "@bacons/mdx": "^0.2.0",
+    "@expo-google-fonts/dongle": "^0.2.3",
+    "@expo-google-fonts/inter": "^0.2.3",
+    "@expo-google-fonts/noto-color-emoji": "^0.2.3",
+    "@expo-google-fonts/source-code-pro": "^0.2.3",
     "@expo/vector-icons": "^14.0.0",
     "@react-navigation/native": "^6.0.2",
     "expo": "~50.0.11",
