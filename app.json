@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "my-app",
-    "slug": "my-app",
+    "name": "David Khuu",
+    "slug": "davidkhuu",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "davidkhuu",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
