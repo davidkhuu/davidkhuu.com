@@ -1,5 +1,6 @@
 import { Slot } from "expo-router";
 
+import { Footer } from "@/components/Footer";
 import { MenuBar } from "@/components/MenuBar";
 
 export default function Navigator() {
@@ -11,6 +12,8 @@ export default function Navigator() {
         <div className="container pt-4">
           <Slot />
         </div>
+
+        <Footer />
       </div>
     </div>
   );
