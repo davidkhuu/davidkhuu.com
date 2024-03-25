@@ -6,6 +6,10 @@ module.exports = {
   },
   theme: {
     extend: {
+      fontFamily: {
+        dongle: ["Dongle_400Regular"],
+        emoji: ["NotoColorEmoji_400Regular"],
+      },
       width: {
         mdrail: 'calc(1.5rem + 65px)',
       },
