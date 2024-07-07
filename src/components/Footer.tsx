@@ -3,7 +3,7 @@ import { Link } from "expo-router";
 
 export function Footer() {
   return (
-    <footer className="flex flex-col text-slate-50 pt-8">
+    <footer className="flex flex-col text-slate-50 pt-8 pb-4">
       <div className="border-t border-slate-500 pb-2">
         <div className="pt-4">Connect with me!</div>
       </div>
