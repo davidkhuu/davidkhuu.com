@@ -7,6 +7,8 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
+    "predeploy:web": "expo export --platform web",
+    "deploy:web": "netlify deploy",
     "test": "jest --watchAll",
     "lint": "eslint ."
   },
